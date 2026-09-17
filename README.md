@@ -64,6 +64,6 @@ I'm working toward a career as a Junior Penetration Tester / VAPT Analyst, with 
 
 📫 Connect With Me
 
-- GitHub: Pierre854 
+- GitHub: Pierre854
 - LinkedIn: https://www.linkedin.com/in/peter-emmanuel-7b74933a8
 - Email: peteremmanuel854@gmail.com
